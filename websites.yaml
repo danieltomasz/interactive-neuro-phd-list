@@ -5,21 +5,10 @@
   license: 
   writeup: 
   authors: [ Evie Vergauwe]
-  tags: [memory, behavioral,]
+  tags: [memory, behavioral]
   uses: [Switzerland]
   img: 
-    
 
-- name: "11 PhD or 12 Postdoc positions, Science of Intelligence research"
-  desc: "Cross-disciplinary research in artificial intelligence, neuroscience, and  many other disciplines"
-  url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#science-inteligence
-  repo: 
-  license: 
-  writeup: 
-  authors: [ ]
-  tags: [inteligence, ml,cross-disciplinary]
-  uses: [Berlin]
-  img: 
 
 
 - name: "Deep Recurrent Nets character generation demo"
