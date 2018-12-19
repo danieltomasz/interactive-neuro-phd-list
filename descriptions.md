@@ -136,3 +136,15 @@ www.scioi.de/call-for-applications/open-positions
 
 Applicants wishing to apply for several projects need to
 provide separate applications for each project.
+
+
+
+### <a name="sussex-sensations"></a> ‘From Sensation and Perception to Awareness’ in Sussex
+
+
+
+**Ph.D. Scholarships available at the University of Sussex: From sensation and perception to awareness.** We are delighted to invite applications for the second round of the Leverhulme Doctoral Scholarship Programme in ‘From Sensation and Perception to Awareness’, hosted across multiple Schools at the University of Sussex. Up to **eight** fully funded positions will be awarded (for UK/EU applicants), starting Sep 2019. The aim of the programme is to bring together doctoral researchers from different disciplines to advance our understanding of the interactions between sensing, perception, and awareness in humans, animals, and machines. Applicants can select from a range of projects or propose their own. Pre-specified projects are divided into three main themes: (i) Human-computer interaction and digital arts, (ii) human cognitive neuroscience and computational neuroscience, and (iii) sensory neuroscience.
+
+
+
+For more details and for how to apply please see <https://www.findaphd.com/search/PhdDetails.aspx?CAID=3783> and <https://www.sussex.ac.uk/sensation/applications>. For more on the Programme please visit <https://www.sussex.ac.uk/sensation/>, and follow us on Twitter @SensationSussex. Email enquries to [Leverhulme@sussex.ac.uk](mailto:Leverhulme@sussex.ac.uk). Application deadline is **31 January 2019**. The programme is co-directed by Anil Seth (Engineering and Informatics) and Jamie Ward (Psychology).

@@ -45,8 +45,22 @@
   supervisors: [Dr. Candice Coker Morey]
   deadline: []
   tags: [working memory]
-  uses: [Cardiff, phd,]
+  uses: [Cardiff, phd]
   img: 
+
+
+- name: "Ph.D. Scholarships available at the University of Sussex: From sensation and perception to awareness. "
+  desc: "The aim of the programme is to bring together doctoral researchers from different disciplines to advance our understanding of the interactions between sensing, perception, and awareness in humans, animals, and machines. Applicants can select from a range of projects or propose their own. Pre-specified projects are divided into three main themes: (i) Human-computer interaction and digital arts, (ii) human cognitive neuroscience and computational neuroscience, and (iii) sensory neuroscience."
+  url: https://www.findaphd.com/search/PhdDetails.aspx?CAID=3783
+  repo: 
+  license: 
+  writeup: 
+  supervisors: [ Anil Seth, Jamie Ward]
+  deadline: ["31.01.2019"]
+  tags: [perception, neuroscience]
+  uses: [Sussex, phd]
+  img: 
+
 
    
 
