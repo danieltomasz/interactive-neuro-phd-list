@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>A collaborative list of PhD and postdoctoral positions in cognitive neuroscience and psychology</title>
+  <title>Open position PhDs (in neuroscience and psychology) list</title>
   <meta name="description" content="A collaborative list of Open position PhDs.">
   <meta name="keywords" content="museum, scavenger hunt, object detection, ai">
   <meta name="author" content="Daniel Borek, Jakub Fogel, contributors">
@@ -85,8 +85,11 @@
               </h3>
             </div>
             <div class="mdl-card__supporting-text">
-              <span class="authors">
-                by {{ etAl(website.authors) }}
+              <span class="supervisors">
+                by {{ etAl(website.supervisors) }}
+              </span>
+               <span class="deadline">
+                deadline: {{ etAl(website.deadline) }}
               </span>
               <div class="mdl-grid" v-if="website.tags && website.uses">
                 <div>

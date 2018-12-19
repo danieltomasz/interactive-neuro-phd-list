@@ -4,9 +4,10 @@
   repo: 
   license: 
   writeup: 
-  authors: [ Evie Vergauwe]
+  supervisors: [ Evie Vergauwe]
+  deadline: ["31.01.2019" ]
   tags: [memory, behavioral]
-  uses: [Switzerland]
+  uses: [Switzerland,phd]
   img: 
 
 
@@ -16,7 +17,37 @@
   repo: 
   license: 
   writeup: 
-  authors: [ ]
+  supervisors: [ ]
+  deadline: []
   tags: [inteligence, ml, interdisciplinary]
-  uses: [Berlin]
+  uses: [Berlin, phd, postdoc]
   img: 
+
+
+- name: "Phd or postdoc about  rhythm, auditory perception, neural oscillations"
+  desc: " Interested in rhythm, auditory perception, neural oscillations? Looking to do a postdoc or a PhD"
+  url: https://www.aesthetics.mpg.de/en/the-institute/jobs.html
+  repo: https://twitter.com/MollyJHenry/status/1074730008898404352
+  license: 
+  writeup: 
+  supervisors: []
+  deadline: []
+  tags: [rhytm, auditory perception, oscillations]
+  uses: [Frankfurt, phd, postdoc]
+  img: 
+
+- name: "Working memory in Cardiff"
+  desc: "Interested in working memory? Looking for a PhD position? I'm looking for a student to start October 2019. Feel free to contact me for more information.[Dr. Candice Coker Morey]"
+  url: https://www.findaphd.com/phds/project/remembering-novel-visual-information/?p105026
+  repo: hhttps://twitter.com/CandiceMorey/status/1074625165286350848
+  license: 
+  writeup: 
+  supervisors: [Dr. Candice Coker Morey]
+  deadline: []
+  tags: [working memory]
+  uses: [Cardiff, phd,]
+  img: 
+
+   
+
+    
