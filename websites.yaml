@@ -10,6 +10,17 @@
   img: 
 
 
+- name: "11 PhD or 12 Postdoc positions, Science of Intelligence research"
+  desc: "Cross-disciplinary research in artificial intelligence, neuroscience, and  many other disciplines"
+  url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#science-inteligence
+  repo: 
+  license: 
+  writeup: 
+  authors: [ ]
+  tags: [inteligence, ml,cross-disciplinary]
+  uses: [Berlin]
+  img: 
+
 
 - name: "Deep Recurrent Nets character generation demo"
   desc: "This demo shows usage of the recurrentjs library train RNN and LSTM networks in JavaScript."
@@ -20,4 +31,4 @@
   authors: [Andrej Karpathy]
   tags: [rnn, lstm, nlp]
   uses: [demo, library]
-img: https://cs.stanford.edu/people/karpathy/recurrentjs/eg.png
+  img: https://cs.stanford.edu/people/karpathy/recurrentjs/eg.png
