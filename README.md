@@ -1,35 +1,17 @@
-# interactive-phd-list
+# PhD and postdoctoral positions in cognitive neuroscience and psychology
 
-A collaborative list of  available PhDs based on  [Piotr Migdał](https://p.migdal.pl/) list of Machine Learning resources.
+A collaborative list of  available PhDs and postdoc position in neuroscience and psychology.
 
-Anyone is encouraged to contribute!
-It is a simple no-build Vue.js website:
+Anyone is encouraged to contribute! The file `website.yaml` contains short entries, the  file `descriptions.md` contain longer  description of the offers.
 
-* [p.migdal.pl/interactive-machine-learning-list/](https://p.migdal.pl/interactive-machine-learning-list/)
+When you want to contribute and see your entry before submitting, the simplest way to run site locally is:
 
-Feel invited to Pull Request other interactive visualizations (check [websites.yaml](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml))! :)
+```
+cd /path/to/repo
+python -m http.server
+```
 
-...aaand if you want to create such visualizations by yourself, see [In Browser AI](https://inbrowser.ai/).
-
-
-## Other lists
-
-* [Explorable Explanations](http://explorabl.es/)
-* [Distill](https://distill.pub/)
-* [Explained Visually](http://setosa.io/ev/)
-* [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
-
-## Inspirations
-
-Read [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) by Bret Victor.
-
-Inspirations for collecting and displaying content:
-
-* [Science-based games - a collaborative list](https://github.com/stared/science-based-games-list) - a list I started (maybe I will turn it int something interactive as well)
-* [Kaggle Past Solutions](http://ndres.me/kaggle-past-solutions/) - a searchable compilation of Kaggle past solutions
-  * source: [EliotAndres/kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions)
-* [D3 Discovery](https://d3-discovery.net/) - finding D3 plugins with ease
-  * source: [https://github.com/wbkd/d3-discovery](https://github.com/wbkd/d3-discovery)
+ Site template is based on  [Piotr Migdał](https://p.migdal.pl/) list of Machine Learning resources.  It is a simple no-build Vue.js website.
 
 
 ## Design
