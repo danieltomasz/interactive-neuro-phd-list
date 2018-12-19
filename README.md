@@ -2,7 +2,7 @@
 
 A collaborative list of  available PhDs and postdoc position in neuroscience and psychology.
 
-Anyone is encouraged to contribute! The file `website.yaml` contains short entries, the  file `descriptions.md` contain longer  description of the offers.
+Anyone is encouraged to contribute! The file `website.yaml` contains short entries, the  file `descriptions.md` contain longer  description of the offers (if no external site with details is provided).
 
 When you want to contribute and see your entry before submitting, the simplest way to run site locally is:
 
