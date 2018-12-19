@@ -1,476 +1,73 @@
-- name: "Deep Recurrent Nets character generation demo"
-  desc: "This demo shows usage of the recurrentjs library train RNN and LSTM networks in JavaScript."
+- name: "One Doctoral (PhD) Position (70%, 4 years), with flexible starting date (between April and September 2019) "
+  desc: "The successful applicant will work with Prof. Evie Vergauwe on a research project funded by an Eccellenza fellowship of the Swiss National Science Foundation. The project’s goal is to better understand human working memory. The student will study the development of working memory through behavioral experiments in children and young adults.
+
+ 
+
+We offer:
+
+•       Work in a friendly, open, and supportive international research team
+
+•       Opportunity for a PhD dissertation, and support for pursuing a career in research
+
+•       Excellent lab infrastructure
+
+•       Opportunity to collaborate with other working memory labs (in Switzerland, Cyprus, and the United States of America)
+
+•       Opportunity to participate in large-scale international collaborations (e.g., Psychological Science Accelerator, and Registered Replication Reports)
+
+•       Training in Open Science techniques and procedures
+
+•       Opportunity to be involved in neuroimaging studies, if interested
+
+•       Salary according to SNSF regulations (approx. CHF 47,000-50,000 per year) for up to 4 years
+
+ 
+
+Desired profile:
+
+•       Master’s degree or equivalent in Psychology or a related discipline
+
+•       Experience with experimental psychology research
+
+•       Background in cognitive psychology and/or developmental psychology
+
+•       Very good research methods knowledge and skills
+
+•       Interest in pursuing an academic career
+
+•       Very good command of English (written and oral)
+
+•       Basic knowledge of French, or willingness to learn some basic French (to interact with participants)
+
+•       Willingness to travel (for conferences and/or international collaborations)
+
+ 
+
+Programming skills (e.g., Matlab, R, OpenSesame, Python) will be considered an advantage.
+
+ 
+
+Application
+
+Please send your application in English, as a single PDF (including your CV, copy of highest academic diploma, a cover letter describing your research interests, previous experience, and motivation to apply for this position, and the contact of, at least, one reference) per email to: evie.vergauwe@unige.ch
+
+Deadline: January 31, 2019, but applications will continue to be considered until the position is filled.
+
+ 
+
+Information/Questions
+
+Questions can be addressed to evie.vergauwe@unige.ch
+
+ 
+
+Applications from women and underrepresented groups are highly encouraged."
   url: https://cs.stanford.edu/people/karpathy/recurrentjs/
   repo: https://github.com/karpathy/recurrentjs
   license: MIT
   writeup: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-  authors: [Andrej Karpathy]
-  tags: [rnn, lstm, nlp]
+  authors: [ Evie Vergauwe]
+  tags: [memory, behavioral, Switzerlans]
   uses: [demo, library]
   img: https://cs.stanford.edu/people/karpathy/recurrentjs/eg.png
 
-- name: "ConvNetJS"
-  desc: "Various demos of deep learning in JavaScript, using ConvNetJS library."
-  url: https://cs.stanford.edu/people/karpathy/convnetjs/
-  repo: https://github.com/karpathy/convnetjs
-  license: MIT
-  writeup: ""
-  authors: [Andrej Karpathy]
-  tags: [convnet]
-  uses: [demo, library]
-  img: https://cs.stanford.edu/people/karpathy/convnetjs/cifar10.jpeg
-
-- name: "Support Vector Machine in JavaScript"
-  desc: "A lightweight implementation of the sequential minimal optimization algorithm to train a binary SVM model in JavaScript."
-  url: https://cs.stanford.edu/~karpathy/svmjs/demo/
-  repo: https://github.com/karpathy/svmjs
-  license: MIT
-  writeup: ""
-  authors: [Andrej Karpathy]
-  tags: [svm]
-  uses: [demo, library, npm]
-  img: imgs/svmjs.png
-
-- name: "tSNEJS demo"
-  desc: "tSNE used for clustering the 500 most-followed accounts on Twitter."
-  url: https://cs.stanford.edu/people/karpathy/tsnejs/
-  repo: https://github.com/karpathy/tsnejs
-  license: MIT
-  writeup: http://karpathy.github.io/2014/07/02/visualizing-top-tweeps-with-t-sne-in-Javascript/
-  authors: [Andrej Karpathy]
-  tags: [tsne]
-  uses: [demo, library]
-  img: https://karpathy.github.io/assets/tsne_preview.jpeg
-
-- name: "Random Forest demo in JavaScript"
-  desc: "Random Forest implementation for JavaScript. Supports arbitrary weak learners."
-  url: https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html
-  repo: https://github.com/karpathy/forestjs
-  license: MIT
-  writeup: ""
-  authors: [Andrej Karpathy]
-  tags: [tsne]
-  uses: [demo, library]
-  img: imgs/forestjs.png
-
-- name: "Keras.js"
-  desc: "Keras.js is a library enabling running Keras models in the browser, with GPU support provided by WebGL 2."
-  url: https://transcranial.github.io/keras-js/#/
-  repo: https://github.com/transcranial/keras-js
-  license: MIT
-  writeup: ""
-  authors: [Leon Chen]
-  tags: [convnet, rnn]
-  uses: [demo, library]
-  img: https://transcranial.github.io/keras-js/demos/assets/resnet50.png
-
-- name: "Interactive visualization of word analogies in GloVe"
-  desc: "king - man + woman is queen; but why? Explore word vectors interactively."
-  url: https://lamyiowce.github.io/word2viz/
-  repo: https://github.com/lamyiowce/word2viz
-  license: MIT
-  writeup: http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
-  authors: [Julia Bazińska, Piotr Migdał]
-  tags: [nlp, word2vec]
-  uses: [demo]
-  img: https://lamyiowce.github.io/word2viz/word2viz_screenshot.png
-
-- name: "A Neural Network Playground"
-  desc: "Interactive visualization of simple neural networks, written in typescript using d3.js."
-  url: http://playground.tensorflow.org/
-  repo: https://github.com/tensorflow/playground
-  license: Apache
-  writeup: ""
-  authors: [Daniel Smilkov, Shan Carter]
-  tags: [mlp]
-  uses: [demo]
-  img: http://playground.tensorflow.org/preview.png
-
-- name: "A visual introduction to machine learning (Part 1)"
-  url: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-  desc: "A demo of using a decision tree algorithm to distinguish houses in New York from houses in San Francisco"
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [Stephanie Yee, Tony Chu]
-  tags: [decision-tree]
-  uses: [demo, tutorial]
-  img: http://www.r2d3.us/static/pages/decision-trees-part-1/preview-en.png
-
-- name: "A visual introduction to machine learning (Part 2)"
-  desc: Model Tuning and the Bias-Variance Tradeoff
-  url: http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [Stephanie Yee, Tony Chu]
-  tags: [decision-tree, overfitting]
-  uses: [demo, tutorial]
-  img: http://www.r2d3.us/static/pages/decision-trees-part2-v2/part2-preview-en.png
-
-- name: "D3 Graph Theory"
-  desc: "Learn graph theory using interactive visualizations made in D3.js."
-  url: https://mrpandey.github.io/d3graphTheory/index.html
-  repo: https://github.com/mrpandey/d3graphTheory
-  license: GPL
-  writeup: ""
-  authors: [Avinash Pandey]
-  tags: [graph]
-  uses: [demo, tutorial]
-  img: https://i.imgur.com/MAvlQgj.png
-
-- name: "Immersive linear algebra"
-  desc: "The world's first linear algebra book with fully interactive figures."
-  url: http://immersivemath.com/ila/index.html
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [J. Ström, K. Åström, and T. Akenine-Mölle]
-  tags: [math, linear-algebra]
-  uses: [book]
-  img: imgs/immersivemath.png
-
-- name: "Seeing Theory"
-  desc: "A visual introduction to probability and statistics"
-  url: http://students.brown.edu/seeing-theory/
-  repo: https://github.com/seeingtheory/Seeing-Theory
-  license: Apache
-  writeup: ""
-  authors: [Daniel Kunin, Jingru Guo, Tyler Dae Devlin, Daniel Xiang]
-  tags: [statistics]
-  uses: [tutorial]
-  img: https://students.brown.edu/seeing-theory/img/share/home.png
-
-- name: "tSNE for the Web"
-  desc: "TensorFlow.js Powered tSNE Implementation"
-  url: https://nicola17.github.io/tfjs-tsne-demo/
-  repo: https://github.com/tensorflow/tfjs-tsne
-  license: Apache
-  writeup: https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html
-  authors: [Nicola Pezzotti, Alexander Mordvintsev, Thomas Hollt, Boudewijn P. F. Lelieveldt, Elmar Eisemann, Anna Vilanova]
-  tags: [tsne]
-  uses: [demo, tensorflow.js, npm]
-  img: https://3.bp.blogspot.com/-NE01azL_JxU/Wxli17oYNzI/AAAAAAAACxQ/axOI2yy-Ft0QbqaekOyemm5Xn0wAFvRUwCLcBGAs/s1600/image2.gif
-
-- name: "GRAIL Text Recognizer"
-  desc: "An active essay revisiting Gabriel Groner's GRAIL handwriting recognizer from the 1960s"
-  url: https://jackschaedler.github.io/handwriting-recognition/
-  repo: https://github.com/jackschaedler/handwriting-recognition
-  license: MIT
-  writeup: ""
-  authors: [Jack Schaedler]
-  tags: [handwriting]
-  uses: [demo, tutorial]
-  img: imgs/handwriting-recognition.png
-
-- name: "pix2pix: Image-to-Image Demo"
-  desc: "Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets"
-  url: https://affinelayer.com/pixsrv/
-  repo: https://github.com/affinelayer/pix2pix-tensorflow
-  license: MIT
-  writeup: ""
-  authors: [Christopher Hesse]
-  tags: [gan, deep-learning]
-  uses: [demo, backend-dependent]
-  img: https://raw.githubusercontent.com/affinelayer/pix2pix-tensorflow/master/docs/examples.jpg
-
-- name: "nlp-compromise"
-  desc: "Modest natural-language processing in JavaScript"
-  url: http://compromise.cool/
-  repo: https://github.com/spencermountain/compromise
-  license: MIT
-  writeup: ""
-  authors: [Spencer Kelly]
-  tags: [nlp]
-  uses: [demo, library]
-  img: imgs/compromise.png
-
-- name: "NeuroJS"
-  desc: "A JavaScript deep learning and reinforcement learning library"
-  url: https://janhuenermann.com/projects/learning-to-drive
-  repo: https://github.com/janhuenermann/neurojs
-  license: MIT
-  writeup: ""
-  authors: [Jan Hünermann]
-  tags: [deep-learning, reinforcement-learning]
-  uses: [demo, library]
-  img: https://raw.githubusercontent.com/janhuenermann/neurojs/experimental/images/logo-with-demo.png
-
-- name: "DeepForge"
-  desc: "A modern development environment for deep learning"
-  url: http://deepforge.org/
-  repo: https://github.com/deepforge-dev/deepforge
-  license: Apache
-  writeup: ""
-  authors: [Brian Broll]
-  tags: [deep-learning]
-  uses: [demo, library]
-  img: https://raw.githubusercontent.com/deepforge-dev/deepforge/master/images/overview.png
-
-- name: "synaptic"
-  desc: "The javascript architecture-free neural network library for node.js and the browser"
-  url: http://caza.la/synaptic/
-  repo: https://github.com/cazala/synaptic
-  license: MIT
-  writeup: ""
-  authors: [Brian Broll]
-  tags: [deep-learning]
-  uses: [demo, library]
-  img: imgs/synaptic.png
-
-- name: "Machine learning library for Node.js"
-  desc: "Logistic regression, SVM linear and radial, kNN"
-  url: http://joonku.com/project/machine_learning
-  repo: https://github.com/junku901/machine_learning
-  license: MIT
-  writeup: ""
-  authors: [Joon-Ku Kang]
-  tags: [machine-learning]
-  uses: [demo, library, npm]
-
-- name: "Neural Slime Volleyball"
-  desc: "HTML5-JS Slime Volleyball clone created using ConvNetJS."
-  url: http://otoro.net/slimevolley/
-  repo: https://github.com/hardmaru/neuralslimevolley
-  license: GPL
-  writeup: http://blog.otoro.net/2015/03/28/neural-slime-volleyball/
-  authors: [hardmaru]
-  tags: [deep-learning]
-  uses: [demo]
-  img: imgs/slimevolley.png
-
-- name: "Quick, draw!"
-  desc: "Can a neural network learn to recognize your doodling? The game uses the world’s largest doodling dataset."
-  url: https://quickdraw.withgoogle.com/
-  repo: ""
-  license: ""
-  writeup: https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html
-  authors: [hardmaru]
-  tags: [deep-learning]
-  uses: [game, backend-dependent]
-  img: https://1.bp.blogspot.com/-X0o-v6SQXtI/WO6R8X22wlI/AAAAAAAABts/Qbvu5QoVwZIfKB-zEV7Po_Juh9AqEb28gCLcB/s1600/twitter_cover.png
-
-- name: "SegNet"
-  desc: "A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling"
-  url: https://mi.eng.cam.ac.uk/projects/segnet/#demo
-  repo: https://github.com/alexgkendall/caffe-segnet
-  license: CC BY NC
-  writeup: https://mi.eng.cam.ac.uk/projects/segnet/#research
-  authors: [Alex Kendall, Vijay Badrinarayanan, Roberto Cipolla]
-  tags: [deep-learning, cnn, segmentation]
-  uses: [demo, backend-dependent]
-  img: imgs/segnet.png
-
-- name: "Caffe Demos"
-  desc: "Web image classification demo"
-  url: http://demo.caffe.berkeleyvision.org/
-  repo: ""
-  license: BSD 2-Clause license
-  writeup: http://caffe.berkeleyvision.org/
-  authors: [Yangqing Jia]
-  tags: [deep-learning, cnn, classification, image-classification]
-  uses: [demo, backend-dependent]
-  img: imgs/caffe-demos.png
-
-- name: "LSTM Music Maker"
-  desc: "How evlolved LSTMs improvise on a melody you specify?"
-  url: https://www.sentient.ai/sentient-labs/ea/lstm-music/
-  repo: ""
-  license: ""
-  writeup: https://arxiv.org/abs/1803.04439
-  authors: [Aditya Rawal, Risto Miikkulainen]
-  tags: [deep-learning, lstm, music]
-  uses: [demo]
-  img: imgs/lstm-music-maker.png
-
-- name: "OMNI Draw"
-  desc: "How do the learned models perceive the characters you draw?"
-  url: https://www.sentient.ai/sentient-labs/ea/omni-draw/
-  repo: ""
-  license: ""
-  writeup: https://arxiv.org/abs/1803.03745
-  authors: [Jason Liang, Elliot Meyerson, Risto Miikkulainen]
-  tags: [deep-learning, cmtr, omniglot]
-  uses: [demo]
-  img: imgs/omni-draw.png
-
-- name: "Celeb Match"
-  desc: "Which celebrity faces match best the attribute values you specify?"
-  url: https://www.sentient.ai/sentient-labs/ea/celeb-match/
-  repo: ""
-  license: ""
-  writeup: https://arxiv.org/abs/1803.04062
-  authors: [Elliot Meyerson, Risto Miikkulainen]
-  tags: [deep-learning, pta]
-  uses: [demo]
-  img: imgs/celeb-match.png
-
-- name: "Neural Titanic"
-  desc: "This visualization uses TensorFlow.js to train a neural network on the titanic dataset"
-  url: https://andrewnetwork.github.io/NeuralTitanic/dist/
-  repo: https://github.com/Andrewnetwork/NeuralTitanic
-  license: MIT
-  writeup: http://kexp.io/intro_tensorflowjs/
-  authors: [Andrew Ribeiro]
-  tags: [mlp, titanic]
-  uses: [demo, tensorflowjs]
-  img: imgs/neural-titanic.png
-
-- name: "Backpropagation algorithm"
-  desc: "The backpropagation algorithm is essential for training large neural networks quickly. This article explains how the algorithm works."
-  url: https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [Daniel Smilkov]
-  tags: [neural-networks, math]
-  uses: [tutorial]
-  img: imgs/backpropagation-algorithm.png
-
-- name: "Visual Search"
-  desc: "This website uses deep neural networks to compute a fingerprint of a query image and retrieves images with similar visual features."
-  url: https://thomasdelteil.github.io/VisualSearch_MXNet/
-  repo: "https://github.com/ThomasDelteil/VisualSearch_MXNet"
-  license: ""
-  writeup: ""
-  authors: [Thomas Delteil]
-  tags: [neural-networks, deep-learning, search, mxnet]
-  uses: [tutorial, demo, backend-dependent]
-  img: imgs/visual-search.png
-
-- name: bayes.js
-  desc: "An implementation of a small MCMC framework and some likelihood functions for doing Bayes stats in the browser."
-  url: https://github.com/rasmusab/bayes.js
-  repo: https://github.com/rasmusab/bayes.js
-  license: MIT
-  writeup: ""
-  authors: [Rasmus Bååth]
-  tags: [bayesian, mcmc, statistics]
-  uses: [demo, library]
-  img: https://raw.githubusercontent.com/rasmusab/bayes.js/master/media/normal_model_plotly.png
-
-- name: Basic Neural Network Math
-  desc: "A Visual And Interactive Look at Basic Neural Network Math"
-  url: https://jalammar.github.io/feedforward-neural-networks-visual-interactive/
-  repo: https://github.com/jalammar/jalammar.github.io/blob/master/_posts/2018-03-23-feedforward-neural-networks-visual-interactive.md
-  license: ""
-  writeup: ""
-  authors: [Jay Alammar]
-  tags: [neural-networks]
-  uses: [tutorial]
-  img: https://jalammar.github.io/images/two-input-one-output-sigmoid-network.png
-
-- name: Seedbank
-  desc: "Collection of Interactive Machine Learning Examples"
-  url: http://tools.google.com/seedbank/
-  repo: ""
-  license: ""
-  writeup: https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57
-  authors: [Mike Tyka, Sures Kumar Thoddu Srinivasan, Chris Boudreaux, Simon Doury, Harini Krishnamurthy, Mike Dory, Gabriel Schubiner, Kyle Pedersen, Artists & Machine Intelligence, Colaboratory teams]
-  tags: [neural-networks, deep-learning]
-  uses: [collection, backend-dependent]
-  img: https://tools.google.com/seedbank/static/images/quick-start.gif
-
-- name: "The Beginner's Guide to Dimensionality Reduction"
-  desc: "Explore the methods that data scientists use to visualize high-dimensional data."
-  url: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
-  repo: https://github.com/mathisonian/dimensionality-reduction
-  license: MIT
-  writeup: ""
-  authors: [Matthew Conlen, Fred Hohman]
-  tags: [pca, tsne]
-  uses: [tutorial]
-  img: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/static/images/share.png
-
-- name: "Visualizing K-Means Clustering"
-  desc: "The k-means algorithm captures the insight that each point in a cluster should be near to the center of that cluster."
-  url: https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [Naftali Harris]
-  tags: [kmeans]
-  uses: [tutorial]
-  img: imgs/visualizing-k-means-clustering.png
-  date: "2014-01-19"
-
-- name: "Matrix factorization visualized"
-  desc: "Matrix factorization implemented in pure JavaScript. Also for sparse data and logistic regression."
-  url: https://p.migdal.pl/matrix-decomposition-viz/
-  repo: https://github.com/stared/matrix-decomposition-viz
-  license: MIT
-  writeup: ""
-  authors: [Piotr Migdał]
-  tags: [matrix-factorization]
-  uses: [demo]
-  img: imgs/matrix-decomposition-viz.png
-  date: "2017-10-17"
-
-- name: "AI Experiments - Experiments with Google"
-  desc: "AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more."
-  url: https://experiments.withgoogle.com/collection/ai
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [Google]
-  tags: [matrix-factorization]
-  uses: [collection]
-  img: imgs/experiments-with-google.png
-
-- name: "A New Angle on L2 Regularization"
-  desc: "An explorable explanation on the phenomenon of adversarial examples in linear classification and its relation to L2 regularization."
-  url: https://thomas-tanay.github.io/post--L2-regularization/
-  repo: https://github.com/thomas-tanay/post--L2-regularization
-  license: ""
-  writeup: ""
-  authors: [Thomas Tanay, Lewis D Griffin]
-  tags: [svm, overfitting, adversarial-examples]
-  uses: [tutorial, paper]
-  img: "imgs/a-new-angle-on-l2-reg.png"
-  date: "2018-06-21"
-
-- name: "Support Vector Machine Explorer"
-  desc: "This is a demo of the Dash interactive Python framework developed by Plotly."
-  url: https://dash-svm.plot.ly/
-  repo: https://github.com/plotly/dash-svm
-  license: MIT
-  writeup: ""
-  authors: [Xing Han Lu]
-  tags: [svm]
-  uses: [demo, backend-dependent, plotly, scikit-learn]
-  img: imgs/dash-svm-plot-ly.png
-  date: "2018-08-09"
-  
-- name: "GAN lab"
-  desc: "Play with Generative Adversarial Networks (GANs) in your browser!"
-  url: https://poloclub.github.io/ganlab/
-  repo: https://github.com/poloclub/ganlab
-  license: Apache
-  writeup: ""
-  authors: [Minsuk Kahng, Nikhil Thorat, Polo Chau, Fernanda Viégas, and Martin Wattenberg]
-  tags: [GAN, deep-learning, tensorflowjs]
-  uses: [demo]
-  img: imgs/ganlab.png
-  date: "2018-09-04"
-- name: "Semantic Calculator"
-  desc: "Do math with word embeddings!"
-  url: https://semantic.a9.io/
-  repo: ""
-  license: ""
-  writeup: ""
-  authors: [Max Krieger]
-  tags: [word2vec, glove, word-embeddings]
-  uses: [demo, backend-dependent]
-  img: imgs/semantic-calculator.png
-  date: "2018-09-29"
-
-- name: "ml5.js"
-  desc: "ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies."
-  url: https://ml5js.org/
-  repo: https://github.com/ml5js/ml5-library
-  license: MIT
-  writeup: https://towardsdatascience.com/introduction-to-ml5-js-3fe51d6a4661
-  authors: [NYU ITP teachers, residents and students]
-  tags: [machine-learning, tensorflowjs]
-  uses: [tutorial, demo, library]
-  img: imgs/ml5.png
