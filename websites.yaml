@@ -1,26 +1,3 @@
-- name: "One Doctoral (PhD) Position (70%, 4 years), with flexible starting date (between April and September 2019) "
-  desc: "Behavioral phd with prof. Evie Vergauwe on working memory in Switzerland"
-  url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#swiss-memory
-  repo: 
-  license: 
-  writeup: 
-  authors: [ Evie Vergauwe]
-  tags: [memory, behavioral]
-  uses: [Switzerland]
-  img: 
-
-
-- name: "11 PhD or 12 Postdoc positions, Science of Intelligence research"
-  desc: "Cross-disciplinary research in artificial intelligence, neuroscience, and  many other disciplines"
-  url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#science-inteligence
-  repo: 
-  license: 
-  writeup: 
-  authors: [ ]
-  tags: [inteligence, ml,cross-disciplinary]
-  uses: [Berlin]
-  img: 
-
 
 - name: "Deep Recurrent Nets character generation demo"
   desc: "This demo shows usage of the recurrentjs library train RNN and LSTM networks in JavaScript."
