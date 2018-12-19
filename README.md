@@ -1,7 +1,8 @@
-# interactive-machine-learning-list
+# interactive-phd-list
 
-A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites.
-Started by [Piotr Migdał](https://p.migdal.pl/), but anyone is encouraged to contribute!
+A collaborative list of  available PhDs based on  [Piotr Migdał](https://p.migdal.pl/) list of Machine Learning resources.
+
+Anyone is encouraged to contribute!
 It is a simple no-build Vue.js website:
 
 * [p.migdal.pl/interactive-machine-learning-list/](https://p.migdal.pl/interactive-machine-learning-list/)
@@ -10,17 +11,6 @@ Feel invited to Pull Request other interactive visualizations (check [websites.y
 
 ...aaand if you want to create such visualizations by yourself, see [In Browser AI](https://inbrowser.ai/).
 
-## What goes there?
-
-Still I am thinking what is the best criterion.
-
-For sure things that are front-end (i.e. JavaScript within browser).
-For things using backend (when you can see solution, but it uses some PyTorch/TF/etc code on a server) I am still debating, but I lean on being more inclusive. In this context:
-
-* make sure it has some didactic value (otherwise ALL services using ML would qualify)
-* add `backend-dependent` in `uses`
-
-Strong preference for open-source solutions (so people can reuse it and learn from code), though it is not a requirement. Though, mention repo and open source license only when it is directly relevant (vs additional materials such as exercises for a book, or Python algorithm).
 
 ## Other lists
 
@@ -46,12 +36,4 @@ Inspirations for collecting and displaying content:
 
 Main layout and styling developed by [Jakub Fogel](https://github.com/fogelkuba)
 
-## TO DO
 
-(You are invited to constribute)
-
-* Descriptions of sites
-* Write-up in a different way
-* Some sorting (alphabetical?)
-* Share button
-* Code refactoring :)
