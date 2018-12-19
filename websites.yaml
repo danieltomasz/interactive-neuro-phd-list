@@ -8,3 +8,15 @@
   tags: [memory, behavioral,]
   uses: [Switzerland]
   img: 
+
+
+- name: "Deep Recurrent Nets character generation demo"
+  desc: "This demo shows usage of the recurrentjs library train RNN and LSTM networks in JavaScript."
+  url: https://cs.stanford.edu/people/karpathy/recurrentjs/
+  repo: https://github.com/karpathy/recurrentjs
+  license: MIT
+  writeup: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+  authors: [Andrej Karpathy]
+  tags: [rnn, lstm, nlp]
+  uses: [demo, library]
+img: https://cs.stanford.edu/people/karpathy/recurrentjs/eg.png
