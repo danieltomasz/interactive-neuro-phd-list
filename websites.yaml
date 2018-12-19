@@ -8,9 +8,10 @@
   tags: [memory, behavioral,]
   uses: [Switzerland]
   img: 
+    
 
-- name: "11 PhD or 12 Postdoc positions, Science of Intelligence research "
-  desc: "Cross-disciplinary research in artificial intelligence, machine learning, control, robotics, computer vision, behavioral biology, cognitive science, psychology,educational science, neuroscience, and philosophy"
+- name: "11 PhD or 12 Postdoc positions, Science of Intelligence research"
+  desc: "Cross-disciplinary research in artificial intelligence, neuroscience, and  many other disciplines"
   url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#science-inteligence
   repo: 
   license: 
