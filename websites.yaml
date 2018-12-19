@@ -1,5 +1,5 @@
 - name: "One Doctoral (PhD) Position (70%, 4 years), with flexible starting date (between April and September 2019) "
-  desc: "
+  desc: "Behavioral phd with prof. Evie Vergauwe on working memory in Switzerland"
   url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#swiss-memory
   repo: 
   license: 
@@ -8,4 +8,3 @@
   tags: [memory, behavioral,]
   uses: [Switzerland]
   img: 
-
