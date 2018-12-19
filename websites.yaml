@@ -9,6 +9,17 @@
   uses: [Switzerland]
   img: 
 
+- name: "1 PhD / 12 Postdoc positions, Science of Intelligence research "
+  desc: "Cross-disciplinary research in artificial intelligence, machine learning, control, robotics, computer vision, behavioral biology, cognitive science, psychology,educational science, neuroscience, and philosophy"
+  url: https://github.com/danieltomasz/phd-list/blob/master/descriptions.md#science-inteligence
+  repo: 
+  license: 
+  writeup: 
+  authors: [ Evie Vergauwe]
+  tags: [inteligence, ml,cross-disciplinary]
+  uses: [Berlin]
+  img: 
+
 
 - name: "Deep Recurrent Nets character generation demo"
   desc: "This demo shows usage of the recurrentjs library train RNN and LSTM networks in JavaScript."
