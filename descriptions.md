@@ -139,7 +139,7 @@ provide separate applications for each project.
 
 
 
-### <a name="sussex-sensations"></a> ‘From Sensation and Perception to Awareness’ in Sussex
+###  <a name="sussex-sensations"></a> ‘ Anil Seth
 
 
 
